@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="216b9a34-7315-4033-a2fa-96b6020a9ea3" name="Changes" comment="" />
+    <list default="true" id="216b9a34-7315-4033-a2fa-96b6020a9ea3" name="Changes" comment="hello i am commited">
+      <change afterPath="$PROJECT_DIR$/november/091124-pytonpraiceandetc/lab05-task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/november/091124-pytonpraiceandetc/labo4-task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/november/071124-keywordsandvariables/lab3-keywordsandidentifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/november/071124-keywordsandvariables/lab3-keywordsandidentifier.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,18 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "saitejapatel1"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;saitejapatel1&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/saitejapatel1/PyAtb5XLearning.git",
-    "accountId": "5933bfb9-16d3-4fb2-bf3a-a5822a688945"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/saitejapatel1/PyAtb5XLearning.git&quot;,
+    &quot;accountId&quot;: &quot;5933bfb9-16d3-4fb2-bf3a-a5822a688945&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -47,7 +52,9 @@
   "keyToString": {
     "Python.lab01-absolutecinema.executor": "Run",
     "Python.lab02-pythonbasicprog.executor": "Run",
+    "Python.lab05-task2.executor": "Run",
     "Python.lab3-keywordsandidentifier.executor": "Run",
+    "Python.labo4-task.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -97,6 +104,19 @@
       <option name="presentableId" value="Default" />
       <updated>1731429607956</updated>
     </task>
+    <task id="LOCAL-00001" summary="hello i am commited">
+      <option name="closed" value="true" />
+      <created>1731594930413</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731594930413</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hello i am commited" />
+    <option name="LAST_COMMIT_MESSAGE" value="hello i am commited" />
   </component>
 </project>
