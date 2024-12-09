@@ -4,35 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="216b9a34-7315-4033-a2fa-96b6020a9ea3" name="Changes" comment="task 16h nov 2024">
-      <change afterPath="$PROJECT_DIR$/november/121124-operators/lab11-arthmetic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/november/121124-operators/lab12-ops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/november/121124-operators/lab13-ops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/november/121124-operators/lab14-p5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/november/121124-operators/lab15-divmodp6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/november/121124-operators/lab16-userinputternary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/november/121124-operators/lab17-circleradius.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/november/141124-conditional statements/lab06-ifelseex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/november/141124-conditional statements/lab18-gradecalc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/november/141124-conditional statements/lab19-prt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/november/141124-conditional statements/labo7-ifelsecondex2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/november/161124-forloopandcondition/lab09-switchcase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/november/161124-forloopandcondition/lab10-py.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/november/161124-forloopandcondition/lab20-loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/november/161124-forloopandcondition/lab21-pcb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/november/191124-functions/lab22-func.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/november/191124-functions/lab23-func.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/november/191124-functions/lab24-functypes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/november/191124-functions/lab25-sumof3arg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/november/211124-functionscopes/lab26-func_scopes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/november/211124-functionscopes/lab27-innerfunction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/november/211124-functionscopes/lab27-toiletex.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="216b9a34-7315-4033-a2fa-96b6020a9ea3" name="Changes" comment="task 16h nov 2024" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -221,6 +202,17 @@
     </task>
     <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hello i am commited" />
